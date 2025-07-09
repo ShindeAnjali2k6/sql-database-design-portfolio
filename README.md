@@ -21,7 +21,7 @@ A simple, fully normalized **MySQL database** for an online retail platform.
 
 ## 📊 ER Diagram
 
-![ER Diagram](./er-diagram.png)
+"C:\Users\Krishna\Downloads\Untitled (1).png"
 
 ---
 
