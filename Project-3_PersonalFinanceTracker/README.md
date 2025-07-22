@@ -27,7 +27,8 @@ A simple personal finance tracker built in **MySQL Workbench** to manage user in
 
 | 📊 Monthly Summary | 🗂️ Top Categories |
 |---------------------|-------------------|
-| ![Monthly](./screenshots/monthly-summary.png) | ![Categories](./screenshots/top-categories.png) |
+| ![Monthly](./screenshots/monthly-summary.png)
+ | ![Categories](./screenshots/top-categories.png) |
 
 | 💰 Balance Left | 📋 Dashboard View |
 |-----------------|-------------------|
