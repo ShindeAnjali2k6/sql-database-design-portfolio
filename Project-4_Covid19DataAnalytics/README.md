@@ -16,7 +16,8 @@ Designed a clean relational database, wrote advanced queries, and exported insig
 ---
 
 ## 🗂️ Folder Structure
-📁 Project-4_Covid19DataAnalytics/
+
+Project-4_Covid19DataAnalytics/
 ├── Covid19DataAnalytics.sql # Full SQL script
 ├── covid_data.csv # Cleaned dataset
 ├── exported_results/ # Query output CSVs
@@ -26,8 +27,6 @@ Designed a clean relational database, wrote advanced queries, and exported insig
 │ ├── 3_sample_rows.png
 ├── Covid19DataAnalytics_Report.pdf # Final report
 └── README.md # This file
-
-
 
 ## 🛠️ Tools Used
 
