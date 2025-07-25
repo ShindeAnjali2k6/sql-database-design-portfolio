@@ -95,14 +95,14 @@ Drop a ⭐ — it keeps me motivated to keep building & sharing!
 ---
 
 ## 🗂️ **Repository Structure**
----
+
 sql-database-design-portfolio/
 ├── Project-1_OnlineRetailSalesDB/
 ├── Project-2_AirlineReservationSystem/
 ├── Project-3_PersonalFinanceTracker/
 ├── Project-4_Covid19DataAnalytics/
 ├── README.md
----
+
 ---
 
 ## 📜 **License**
