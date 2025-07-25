@@ -28,10 +28,6 @@ Designed a clean relational database, wrote advanced queries, and exported insig
 │ ├── 3_sample_rows.png
 └── README.md # This file
 
-yaml
-Copy code
-
----
 
 ## 🛠️ Tools Used
 
