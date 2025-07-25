@@ -1,61 +1,113 @@
-# 📚 SQL Database Design Portfolio
+# 🚀 **SQL Database Design Portfolio**
 
-Welcome! 👋 I’m **Anjali Shinde**, and this repository is my personal portfolio showcasing mini SQL database design projects built using **MySQL Workbench**.
+Hey there! 👋 Welcome to my **SQL Database Design Portfolio** — a curated collection of **real-world database projects** that showcase my skills in **designing, implementing, and analyzing data with SQL**.
 
-Each project demonstrates:
-- Practical database schema design
-- Normalization & foreign key constraints
-- Realistic sample data
-- Useful SQL queries
-- Views, triggers & reports
+This portfolio reflects my passion for turning raw data into **meaningful, actionable insights** with clean, scalable database solutions.
 
 ---
 
-## ✅ Projects Included
+## 📂 **Projects at a Glance**
 
-### 🛒 [Project 1 — Online Retail Sales Database](./Project-1_OnlineRetailSalesDB)
-
-A simple, fully normalized **MySQL database** for an online retail platform.
-
-**What’s inside:**
-- `OnlineRetailDB.sql` — schema + sample data
-- `er-diagram.png` — clear ER diagram
-- `README.md` — usage guide
+| 📌 Project | 💡 Description | 🧩 Focus |
+|------------|----------------|----------|
+| 🛒 **Online Retail Sales DB** | Tracks sales for an e-commerce store | Sales trends, top products, customer insights |
+| ✈️ **Airline Reservation System** | Manages flights, passengers & bookings | Reservations, seat tracking, revenue reports |
+| 💵 **Personal Finance Tracker** | Tracks income, expenses & budgets | Budgeting, spending patterns, savings |
+| 🦠 **COVID-19 Data Analytics** | Analyzes daily pandemic data | Data cleanup, trend analysis, health stats |
 
 ---
 
-### ✈️ [Project 2 — Airline Reservation System](./Project-2_AirlineReservationSystem)
+## 🔍 **Project Details**
 
-A mini airline reservation system using **MySQL Workbench**.
-
-**What’s inside:**
-- `AirlineReservation.sql` — schema, inserts, triggers, views, and queries
-- `Airlines sql project.docx` — final report with screenshots
-- `README.md` — detailed guide
+### 🛒 **1️⃣ Online Retail Sales DB**
+**Goal:** Build a complete sales database for an online store.  
+**Highlights:** Normalized tables, realistic CSV imports, sales insights, top customers & products.  
+[📂 Explore](./Project-1_OnlineRetailSalesDB)
 
 ---
 
-## ⚙️ How to Use
-
-1️⃣ Clone this repo or download any project folder.  
-2️⃣ Open `.sql` files in **MySQL Workbench**.  
-3️⃣ Run the schema to create tables & insert data.  
-4️⃣ Use the provided queries, triggers, and views for practice & learning.
+### ✈️ **2️⃣ Airline Reservation System**
+**Goal:** Develop a database for flight scheduling & ticketing.  
+**Highlights:** Structured flights, passengers, bookings; integrity checks; seat management.  
+[📂 Explore](./Project-2_AirlineReservationSystem)
 
 ---
 
-## 📌 About Me
-
-**👩‍💻 Anjali Shinde**  
-*BTech 3rd Year Student — Specialization: Data Science*  
-Focused on building strong skills in **SQL**, **data analysis**, and **database design**.
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/anjali-shinde-647b472b7)
+### 💵 **3️⃣ Personal Finance Tracker**
+**Goal:** Track personal finances over time.  
+**Highlights:** Categorized income/expenses, spending trends, savings reports, budget insights.  
+[📂 Explore](./Project-3_PersonalFinanceTracker)
 
 ---
 
-## 🚀 Happy Learning!
+### 🦠 **4️⃣ COVID-19 Data Analytics**
+**Goal:** Analyze daily COVID-19 trends & metrics.  
+**Highlights:** Cleaned daily data, trends & rates, export-ready reports for visualization.  
+[📂 Explore](./Project-4_Covid19DataAnalytics)
 
-Feel free to **fork ⭐ this repo** or share it with others who want to learn practical SQL database design!
+---
 
-**🚀 Designed & uploaded by Anjali Shinde**
+## ⚙️ **Tech & Tools**
+
+- **SQL:** DDL, DML, constraints
+- **Queries:** Joins, subqueries, aggregations
+- **Data Handling:** CSV imports & cleanup
+- **Validation:** Screenshots & exports
+
+---
+
+## 🎯 **Skills Demonstrated**
+
+✅ Database design & normalization  
+✅ Realistic data modeling  
+✅ Advanced querying & reporting  
+✅ Practical problem-solving
+
+---
+
+## 💡 **Why This Portfolio?**
+
+✔️ Real-world scenarios, end-to-end workflow  
+✔️ Clear, reusable SQL scripts & queries  
+✔️ Fully documented with outputs & screenshots  
+✔️ Ready to connect with BI tools for insights
+
+---
+
+## 🚀 **What’s Next**
+
+Next: Stored procedures, triggers, BI dashboards, & open-source SQL contributions!
+
+---
+
+## 🤝 **Let’s Connect**
+
+📌 [HackerRank](https://www.hackerrank.com/profile/anjaliparashura2)  
+📌 [LeetCode](https://leetcode.com/u/Onjo8vPiIY/)  
+📌 [Credly](https://www.credly.com/users/shinde-anjali)
+
+---
+
+## ⭐ **Like this?**
+
+Drop a ⭐ — it keeps me motivated to keep building & sharing!
+
+---
+
+## 🗂️ **Repository Structure**
+---
+sql-database-design-portfolio/
+├── Project-1_OnlineRetailSalesDB/
+├── Project-2_AirlineReservationSystem/
+├── Project-3_PersonalFinanceTracker/
+├── Project-4_Covid19DataAnalytics/
+├── README.md
+---
+---
+
+## 📜 **License**
+
+This portfolio is for **educational use only** — feel free to explore & adapt (with credit).
+
+**Thanks for visiting — happy querying! 🚀✨**
+
